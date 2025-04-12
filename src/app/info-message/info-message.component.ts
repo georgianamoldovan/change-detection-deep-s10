@@ -14,6 +14,6 @@ export class InfoMessageComponent {
   }
 
   onLog() {
-    console.log('Clicked!');
+    console.log('Clicked123!');
   }
 }
